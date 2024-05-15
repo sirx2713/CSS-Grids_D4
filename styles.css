@@ -1,0 +1,19 @@
+body{
+    background-color: #FFFAE6;
+}
+h1{
+    font-family: "SF Pro Display", serif;
+    font-size: 100px;
+    text-align: center;
+    color: #57A6A1;
+}
+#main{
+    display: grid;
+    grid-template-columns: 400px 200px 100px;
+    grid-template-rows: 200px 200px 200px;
+    gap: 40px;
+    margin-left: 300px;
+}
+.box{
+    background-color: #344C64;
+}
